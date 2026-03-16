@@ -20,4 +20,4 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGttYjVzaWlrMnE2eWtrb3Y3NXhkdWl5eGJ1OW1tczJ4N3p3cno3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="200px">
 </p>
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Eduardo-Menegon/Eduardo-Menegon/blob/output/github-contribution-grid-snake.svg)
