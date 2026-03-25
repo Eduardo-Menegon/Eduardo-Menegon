@@ -15,6 +15,7 @@
 | ------------- | ------------- |
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardomenegom123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardofmenegon/)
 
 <p align="right">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGttYjVzaWlrMnE2eWtrb3Y3NXhkdWl5eGJ1OW1tczJ4N3p3cno3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="200px">
