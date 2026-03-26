@@ -1,7 +1,6 @@
 ## Olá! eu sou o Eduardo Menegon
 
 - 🌱 Estudando Java e desenvolvimento back-end
-- 😄 Pronouns: ele/dele
 - ❤️ Gosto muito de estudar Java e criar novos projetos
   
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
