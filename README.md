@@ -16,7 +16,7 @@
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 
- <a href="https://github.com/Eduardo-Menegon"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo-Menegon&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" /></a> | <a href="https://github.com/Eduardo-Menegon"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo-Menegon&layout=compact&theme=vue-dark&hide_border=true" /></a> 
+ <a href="https://github.com/Eduardo-Menegon"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo-Menegon&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" /></a>  <a href="https://github.com/Eduardo-Menegon"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo-Menegon&layout=compact&theme=vue-dark&hide_border=true" /></a> 
 
 
 
